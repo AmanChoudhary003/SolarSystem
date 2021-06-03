@@ -149,6 +149,9 @@
         }
         
         @media(max-width: 400px) {
+            body {
+                overflow-x: hidden;
+            }
             .astronautImage {
                 margin-left: 3rem;
                 height: 20rem;
